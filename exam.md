@@ -3,7 +3,7 @@ Ruby 題
 
  1.	試說明在 Ruby 裡常數(constant)跟變數(variable)的差別。
 
-   在Ruby中常數的開頭要大寫，而變數是小寫
+        在Ruby中常數的開頭要大寫，而變數是小寫
 
 
  2.	請問 hash[:key] 跟 hash["hash"] 有什麼差別?
