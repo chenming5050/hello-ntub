@@ -16,6 +16,9 @@ Ruby 題
 
  4.	試說明在 Ruby 裡 public、protected 與 private method 的差別。
 
+        public 是公開的意思，示方法可以被任何人呼叫。。
+        private 只有 self 可以當成 private 方法的接受者。
+        protected 可以被一個類別或衍生類別的實例呼叫，也可以讓另一個相同類別的實例來當做接受者。 
 
 
 Rails 題
